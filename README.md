@@ -1,7 +1,9 @@
-Newsletter Tailwind
+Newsletter Tailwind ALURA
 ==============================================
 
-Esse é um projeto de uma newsletter responsiva desenvolvido com HTML, CSS. Foi utilizado o framework Tailwind CSS para agilizar a estilização dos elementos.
+Esse é um projeto de uma newsletter responsiva desenvolvido com HTML, CSS durante as aulas do curso de Tailwind da Alura. 
+
+Foi utilizado o framework Tailwind CSS para agilizar a estilização dos elementos.
 
 O objetivo do projeto é apresentar o uso do framework Tailwind CSS, uma forma simples de utilizar classes CSS pré-definidas, aumentando a produtividade e eficiência do desenvolvimento.
 
